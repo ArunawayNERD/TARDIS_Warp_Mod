@@ -2,6 +2,7 @@
   "name" : "TardisWarp",
   "version" : "Beta v. Angry Koala",
   "path" : ".",
-  "mod_version" : "1.0",
-  "author" : "ArunawayNERD"
+  "mod_version" : "1.1",
+  "author" : "ArunawayNERD",
+  "mod_Url" : "http://community.playstarbound.com/index.php?resources/tardis-warp.938/"
 }
